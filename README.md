@@ -1,0 +1,2 @@
+# consulting-firm-operations-standard-operating-procedures-library-notion-template
+Your consulting firm is bleeding time and consistency because every team member operates differently—no standardized processes, no knowledge base, pure chaos disguised as flexibility. The Consulting Firm Operations Standard Operating Procedures Library Notion Template solves this by giving you a battle-tested, ready-to-deploy SOP system that turns 
